@@ -1,0 +1,3 @@
+Alan;Fernandez;25
+Morgan;Gonzales;24
+Camila;Ahumada;22
